@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://github.com/sitta07?tab=repositories"><img src="https://img.shields.io/badge/See_my_projects-3b6fe0?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sitta07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=sitta07&style=flat-square&color=3b6fe0&label=Profile+views">
 </p>
 
 ---
